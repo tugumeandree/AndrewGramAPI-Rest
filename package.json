@@ -1,0 +1,19 @@
+{
+  "name": "andrewgramapi-rest",
+  "version": "1.0.0",
+  "description": "An instagram like API for my personal social media using the Rest architecture style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugumeandree/AndrewGramAPI-Rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tugumeandree/AndrewGramAPI-Rest/issues"
+  },
+  "homepage": "https://github.com/tugumeandree/AndrewGramAPI-Rest#readme"
+}
